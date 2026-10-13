@@ -1,0 +1,15 @@
+============================================================
+EXECUÇÃO REAL - DESAFIOS DE PDI (FUNDAMENTOS)
+Ambiente: Python 3.13 | OpenCV 4.12 | NumPy | Matplotlib
+============================================================
+
+Imagem Sintética: d:\projetos\pid\img4.ppm
+Imagem Capturada: d:\projetos\pid\imgs\5-1Rec.JPG
+Dimensões Alinhadas: 256x256
+
+Exp 1 - Diferença Média Absoluta (MAE): 55.7853
+Exp 1 - Erro Quadrático Médio (MSE): 4591.4478
+Exp 3 - Média do Ruído: -107.6358
+Exp 3 - Desvio Padrão do Ruído: 22.2655
+Exp 4 - Simulação MSE: 1721.0639 | PSNR: 15.77 dB
+Exp 5 - Largura de Transição da Borda (Δx): 29 pixels
